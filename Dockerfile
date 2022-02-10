@@ -1,7 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Dark-Maxv1/V4 /root/V4
-WORKDIR /root/V4/
+RUN git clone https://github.com/Janithsadanuwan/Dragonx-Wa-BotMain.git /root/Dragonx-Wa-BotMain
+WORKDIR /root/Dragonx-Wa-BotMain/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit

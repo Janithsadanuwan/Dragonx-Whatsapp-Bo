@@ -67,7 +67,7 @@
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Achi%20Fernando&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Janith%20Sadanuwan&color=purple&style=plastic">
 
   </a>
 </p>

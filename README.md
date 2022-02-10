@@ -54,35 +54,29 @@
   
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/forks/AchiyaCT/ALPHA-V4?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Janithsadanuwan/Dragonx-Whatsapp-Bo?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/AchiyaCT/ALPHA-V4?style=social">
+    <img src="https://img.shields.io/github/stars/Janithsadanuwan/Dragonx-Whatsapp-Bo?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/repo-size/AchiyaCT/ALPHA-V4?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Janithsadanuwan/Dragonx-Whatsapp-Bo?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/license/AchiyaCT/ALPHA-V4?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/Janithsadanuwan/Dragonx-Whatsapp-Bo?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/languages/top/AchiyaCT/ALPHA-V4?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/Janithsadanuwan/Dragonx-Whatsapp-Bo?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
     <img src="https://img.shields.io/static/v1?label=Author&message=Achi%20Fernando&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/9478450697">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Alpha%20Achi%20Fernando-purple&style=plastic">
 
   </a>
 </p>

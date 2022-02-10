@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="https://github.com/AchiyaCT/ALPHA-V4">
-    <img src="https://img.shields.io/docker/pulls/AchiyaCT/ALPHA-V4?style=flat-square&label=Docker+Pulls">
+    <img src="https://img.shields.io/docker/pulls/Janithsadanuwan/Dragonx-Whatsapp-Bot?style=flat-square&label=Docker+Pulls">
   </a>
   <a href="https://github.com/AchiyaCT/ALPHA-V4">
-    <img src="https://img.shields.io/docker/image-size/AchiyaCT/ALPHA-V4?style=flat-square&logo=github&label=Image Size">
+    <img src="https://img.shields.io/docker/image-size/Janithsadanuwan/Dragonx-Whatsapp-Bot?style=flat-square&logo=github&label=Image Size">
     
   </a>
 </p>
@@ -54,25 +54,25 @@
   
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/forks/Janithsadanuwan/Dragonx-Whatsapp-Bo?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Janithsadanuwan/Dragonx-Whatsapp-Bot?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/Janithsadanuwan/Dragonx-Whatsapp-Bo?style=social">
+    <img src="https://img.shields.io/github/stars/Janithsadanuwan/Dragonx-Whatsapp-Bot?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/repo-size/Janithsadanuwan/Dragonx-Whatsapp-Bo?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Janithsadanuwan/Dragonx-Whatsapp-Bot?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/license/Janithsadanuwan/Dragonx-Whatsapp-Bo?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/Janithsadanuwan/Dragonx-Whatsapp-Bot?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
-    <img src="https://img.shields.io/github/languages/top/Janithsadanuwan/Dragonx-Whatsapp-Bo?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/Janithsadanuwan/Dragonx-Whatsapp-Bot?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/Janithsadanuwan/Dragonx-Whatsapp-Bot">
